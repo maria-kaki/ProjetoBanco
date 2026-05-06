@@ -241,8 +241,8 @@ dotnet test
 **Resultado obtido:**
 
 ```
-Test summary: total: 6; failed: 0; succeeded: 6; skipped: 0; duration: 5,8s
-Build succeeded with 1 warning(s) in 7,3s
+Test summary: total: 7; failed: 0; succeeded: 7; skipped: 0; duration: 12,0s
+Build succeeded with 2 warning(s) in 17,8s
 ```
 
 ![Print dos Testes](docs/print_test.png)
